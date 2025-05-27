@@ -1,1 +1,1 @@
-Feature: verify log in page functionality 2
+Feature: verify log in page functionality 3
